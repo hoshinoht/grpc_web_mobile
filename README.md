@@ -1,4 +1,4 @@
-# grpc_web_android
+# grpc_web_mobile
 
 A small, self-contained gRPC-Web client for Dart/Flutter that sends gRPC requests over HTTP/1.1 using `package:http`. It is designed for environments where HTTP/2 is not available (for example, Cloudflare Tunnels) but a gRPC-Web enabled server is, and is intended for non-web Flutter services.
 
